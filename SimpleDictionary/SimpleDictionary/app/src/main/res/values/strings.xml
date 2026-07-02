@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleDictionary</string>
+    <string name="enter_word">Enter Word</string>
+    <string name="enter_meaning">Enter Meaning</string>
+    <string name="save">SAVE</string>
+    <string name="add_word">Add Word</string>
+</resources>
